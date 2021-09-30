@@ -1,6 +1,6 @@
 ## 안녕하세요 매일 성장하는 개발자 강태웅입니다:laughing:
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=ktw2378)](https://velog.io/@ktw2378)</br>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ktw2378)](https://github.com/taewoong1378/velog-readme-stats)</br></br>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ktw2378)](https://github.com/eungyeole/velog-readme-stats)</br></br>
 
 ### :gem: Stack
 - HTML/CSS/JS 🌱
