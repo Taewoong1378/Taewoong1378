@@ -1,6 +1,5 @@
 ## 안녕하세요 풀스택 개발자를 꿈꾸는 22살 강태웅입니다:laughing:
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTaewoong1378)](https://hits.seeyoufarm.com)</br>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=ktw2378)](https://velog.io/@ktw2378)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=ktw2378)](https://velog.io/@ktw2378)</br>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ktw2378)](https://github.com/Taewoong1378/velog-readme-stats)</br></br>
 
 ### :gem: Stack
