@@ -12,7 +12,7 @@
 
 
  ### :gift: Notion
-- [공부 기록 노션 사이트입니다.](https://rattle-shamrock-415.notion.site/de4c948ba80f43cc97354d8089c0fc92)
+- <a href="https://rattle-shamrock-415.notion.site/de4c948ba80f43cc97354d8089c0fc92">공부 기록 노션 사이트입니다.</a>
 
 ------------
 <!--
