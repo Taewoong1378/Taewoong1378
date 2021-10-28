@@ -2,6 +2,11 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=ktw2378)](https://velog.io/@ktw2378)</br>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ktw2378)](https://velog.io/@ktw2378)</br></br>
 
+
+### 📫  Work
+현재 <a href="https://www.ablestor.com/" target="_blank">에이블스토어</a>에서 웹 및 앱 개발자로 근무 중입니다
+<br /><br /><br />
+
 ### :gem: Stack
 - HTML/CSS/JS 🌱
 - React & Next.js ✨
