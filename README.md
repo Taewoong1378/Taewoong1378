@@ -4,7 +4,7 @@
 
 
 ### 📫  Work
-현재 <a href="https://www.ablestor.com/" target="_blank">에이블스토어</a>에서 웹 및 앱 개발자로 근무 중입니다
+- 현재 <a href="https://www.ablestor.com/" target="_blank">에이블스토어</a>에서 웹 및 앱 개발자로 근무 중입니다
 <br /><br /><br />
 
 ### :gem: Stack
