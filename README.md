@@ -37,6 +37,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=Taewoong1378&show_icons=true&hide_border=true)](https://github.com/Taewoong1378)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taewoong1378&layout=compact)](https://github.com/Taewoong1378)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taewoong1378&count_private=true&show_icons=true)
