@@ -1,7 +1,7 @@
 ## 안녕하세요 매일 성장하는 개발자 강태웅입니다:laughing:
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=ktw2378)](https://velog.io/@ktw2378)</br>
+<!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=ktw2378)](https://velog.io/@ktw2378)</br>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ktw2378)](https://velog.io/@ktw2378)</br></br>
-
+ -->
 
 ### 📫  Work
 - 현재 <a href="https://moss.works/" target="_blank">에이블스토어</a>에서 웹 및 앱 개발자로 근무 중입니다
