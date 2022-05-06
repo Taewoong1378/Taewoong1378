@@ -1,3 +1,8 @@
+# Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTaewoong1378&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 ## 안녕하세요 매일 성장하는 개발자 강태웅입니다:laughing:
 <!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=ktw2378)](https://velog.io/@ktw2378)</br>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ktw2378)](https://velog.io/@ktw2378)</br></br>
@@ -7,6 +12,9 @@
 - 현재 <a href="https://moss.works/" target="_blank">에이블스토어</a>에서 웹 및 앱 개발자로 근무 중입니다
 <br /><br /><br />
 
+### 😄 Portfolio
+- <a href="https://taewoong.oopy.io/" target="_blank">개인 포트폴리오 사이트입니다.</a>
+<br /><br /><br />
 
 ### ⭐ Stack
 <img align="left" alt="React Native" src="https://img.shields.io/badge/react_native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=%23ffffff"/>
@@ -18,10 +26,9 @@
 <br /><br /><br /><br />
 
 
+### 🏆 GitHub Trophies
 
-
- ### :gift: Notion
-- <a href="https://rattle-shamrock-415.notion.site/de4c948ba80f43cc97354d8089c0fc92" target="_blank">공부 기록 노션 사이트입니다.</a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Taewoong1378&theme=juicyfresh&no-frame=true&row=1&margin-w=20&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ------------
 <!--
