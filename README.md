@@ -10,10 +10,15 @@
 
 ### 📫  Work
 - 현재 <a href="https://moss.works/" target="_blank">에이블스토어</a>에서 웹 및 앱 개발자로 근무 중입니다
-<br /><br /><br />
+<br /><br />
+
+### 🔥 Project
+- <a href="https://dali.oopy.io/" target="_blank">DALI Hotel Service</a>의 React-Native 앱 개발을 맡고 있습니다.
+- <a href="https://fireside.blog/content/1" target="_blank">Fireside Network 플랫폼</a>의 컨텐츠 제작과 웹 개발을 맡고 있습니다.
+<br /><br />
 
 ### 😄 Portfolio
-- <a href="https://taewoong.oopy.io/" target="_blank">개인 포트폴리오 사이트입니다.</a>
+- <a href="https://taewoong.life/" target="_blank">개인 포트폴리오 사이트입니다.</a>
 <br /><br /><br />
 
 ### ⭐ Stack
