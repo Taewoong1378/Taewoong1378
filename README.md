@@ -9,7 +9,8 @@
  -->
 
 ### 📫  Work
-- 현재 <a href="https://moss.works/" target="_blank">에이블스토어</a>에서 웹 및 앱 개발자로 근무 중입니다
+- <a href="https://moss.works/" target="_blank">에이블스토어</a>에서 웹 및 앱 개발자로 근무했습니다. (2021.10 ~ 2022.08)
+- <a href="https://medibloc.career.greetinghr.com/?gclid=Cj0KCQjwrs2XBhDjARIsAHVymmQrAo1RzRJOOK9OatCQwcTvvvWo5I-opnTdRQP8-xgfQUOGLEW95mQaAsG8EALw_wcB" target="_blank">메디블록</a>의 닥터팔레트 개발자로 근무 중입니다. (2022.08 ~ ing)
 <br /><br />
 
 ### 🔥 Project
