@@ -15,7 +15,7 @@
 
 ### 🔥 Project
 - <a href="https://www.drivingteacher.info/" target="_blank">운전선생</a>의 웹 및 앱 개발을 맡고 있습니다.
-- <a href="https://fireside.blog/content/1" target="_blank">Fireside Network 플랫폼</a>의 컨텐츠 제작과 웹 개발을 맡고 있습니다.
+- <a href="https://fireside.blog" target="_blank">Fireside Network 플랫폼</a>의 컨텐츠 제작과 웹 개발을 맡고 있습니다.
 <br /><br />
 
 ### 😄 Portfolio
