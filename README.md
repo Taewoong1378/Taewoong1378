@@ -19,7 +19,7 @@
 <br /><br />
 
 ### 😄 Portfolio
-- <a href="https://taewoong.life/" target="_blank">개인 포트폴리오 사이트입니다.</a>
+- <a href="https://taewoong.info/" target="_blank">개인 포트폴리오 사이트입니다.</a>
 <br /><br /><br />
 
 ### ⭐ Stack
