@@ -14,8 +14,8 @@
 <br /><br />
 
 ### 🔥 Project
-- <a href="https://www.drivingteacher.info/" target="_blank">운전선생</a>의 웹 및 앱 개발을 맡고 있습니다.
-- <a href="https://fireside.blog" target="_blank">Fireside Network 플랫폼</a>의 컨텐츠 제작과 웹 개발을 맡고 있습니다.
+- <a href="https://fireside1percent.com" target="_blank">Fireside Network 플랫폼</a>의 Business Manager를 맡고 있습니다.
+- <a href="https://www.drivingteacher.co.kr/" target="_blank">운전선생</a> 서비스를 공동 창업했었습니다.
 <br /><br />
 
 ### 😄 Portfolio
@@ -23,12 +23,11 @@
 <br /><br /><br />
 
 ### ⭐ Stack
-<img align="left" alt="React Native" src="https://img.shields.io/badge/react_native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=%23ffffff"/>
 <img align="left" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img  alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="nextjs" src="https://img.shields.io/badge/next.js%20-%2320232a.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
+<img  alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
 <br /><br /><br /><br />
 
 
