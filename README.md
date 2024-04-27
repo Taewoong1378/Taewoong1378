@@ -9,7 +9,8 @@
  -->
 
 ### 📫  Work
-- <a href="https://medibloc.career.greetinghr.com/?gclid=Cj0KCQjwrs2XBhDjARIsAHVymmQrAo1RzRJOOK9OatCQwcTvvvWo5I-opnTdRQP8-xgfQUOGLEW95mQaAsG8EALw_wcB" target="_blank">메디블록</a>의 닥터팔레트 개발자로 근무 중입니다. (2022.08 ~ ing)
+- <a href="https://afterdoc.co.kr/" target="_blank">메디팔</a>의 애프터닥 프론트엔드 개발자로 근무 중입니다. (2024.04 ~ ing)
+- <a href="https://dr.pltt.cloud/?gad_source=1&gclid=CjwKCAjwxLKxBhA7EiwAXO0R0DOsx0CldHta1MthjYRvEexuPeFlS2NKCTh8cF-Lsj9_oh78sY-NqRoCDpoQAvD_BwE" target="_blank">메디블록</a>의 닥터팔레트 프론트엔드 개발자로 근무했습니다. (2022.08 ~ 2024.03)
 - <a href="https://mommoss.com/" target="_blank">에이블스토어</a>에서 웹 및 앱 개발자로 근무했습니다. (2021.10 ~ 2022.08)
 <br /><br />
 
